@@ -1,0 +1,32 @@
+# Blender 5.3.0 MTL File: 'Javil.blend'
+# www.blender.org
+
+newmtl mat69.001
+Ns 159.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/mat69_baseColor.jpg
+
+newmtl t_wep_launcher__fgm148_javelin_01_a_cs.001
+Ns 159.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/t_wep_launcher__fgm148_javelin_01_a_cs_baseColor_scale0.jpg
+
+newmtl t_wep_launcher__fgm148_javelin_01_b_cs.001
+Ns 159.999985
+Ka 0.224001 0.224001 0.224001
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/mat69_baseColor.jpg
